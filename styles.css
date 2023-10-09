@@ -93,7 +93,7 @@ main {
 }
 
 #weather {
-    display: flex;
+    display: none; /* just flex to -> none */
     background-color: var(--cor-principal);
     padding: 20px;
     box-shadow: 3px 3px 5px 2px grey;
